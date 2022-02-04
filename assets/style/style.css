@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+     background-color: cyan;
+     height: 100vh;
+
+}
+
+section{
+    border-radius: 5px;
+    padding: 20px;
+    width: 500px;
+    margin:auto;
+    background-color: antiquewhite;
+}
+
+div {
+    margin: 10px;
+}
+
+form button:hover {
+    background:rgb(165, 188, 243);
+}
+
+.paragrafo-resultado, .bad {
+    background-color: rgb(215, 239, 250);
+    padding: 20px;
+}
+
+.bad {
+    background:rgb(255, 86, 19)
+}
